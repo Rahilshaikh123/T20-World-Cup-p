@@ -1,0 +1,26 @@
+.bg1{
+    
+    background: url(a.jpg);
+    margin-left: 1mm;
+    padding-left: 3cm;
+    background-position: center;
+
+    width: 1515px;
+    height: 700px;
+}
+.Ta1{
+    display:flex;
+    flex-direction: column;
+    font-style: italic;
+    padding: 300px 200px;
+    justify-content: center;
+    align-items: center;
+    color: aqua;
+
+    
+
+}
+.al1{
+    display: flex;justify-content: center;align-items: center;
+
+}
